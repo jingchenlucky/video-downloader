@@ -15,6 +15,9 @@ dist/
 *.log
 .DS_Store
 
+# Agent skills (local tooling, not part of app)
+skills/
+
 # Downloaded media artifacts
 backend/downloads/
 
